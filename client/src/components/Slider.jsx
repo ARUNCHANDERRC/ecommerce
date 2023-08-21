@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import ArrowLeftIcon from '@mui/icons-material/ArrowLeft';
 import ArrowRightIcon from '@mui/icons-material/ArrowRight';
 import { useState } from 'react';
-import sliderItems from '../data';
+import {sliderItems} from '../data';
 
 const Container = styled.div`
   height: 100vh;
